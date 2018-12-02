@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"org.codehaus.mojo.spotbugs"}]
